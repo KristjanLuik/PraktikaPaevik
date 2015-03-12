@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails praktika_paevik: default" uuid="23358a2e-2b21-4d03-b19b-f17f185a2377">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfd9dfdedfc3dfd9dfdddfc3dfdedfc2dfcbdfdddf9d</user-password>
+    </data-source>
+    <data-source name="Rails praktika_paevik: development" uuid="ed5c3a96-28ee-40da-a985-3e59ae42ad56">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfd9dfdedfc3dfd9dfdddfc3dfdedfc2dfcbdfdddf9d</user-password>
+    </data-source>
+    <data-source name="Rails praktika_paevik: test" uuid="1ec1e852-350c-4ad9-a4df-7cfbf51983b2">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfd9dfdedfc3dfd9dfdddfc3dfdedfc2dfcbdfdddf9d</user-password>
+    </data-source>
+    <data-source name="Rails praktika_paevik: production" uuid="464a60c7-4d2a-4b8e-9122-b3170d4005d0">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfd9dfdedfc3dfd9dfdddfc3dfdedfc2dfcbdfdddf9d</user-password>
+    </data-source>
+  </component>
+</project>
