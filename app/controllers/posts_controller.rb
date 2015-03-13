@@ -38,8 +38,8 @@ class PostsController < ApplicationController
   def destroy
     @post = Post.find(params[:id])
     @post.destroy
-    logger.debug "Olen destroy sees."
-    redirect_to posts_path
+    logger.debug 'Olen destroy sees.'
+    redirect_to root_path
   end
 
   private
