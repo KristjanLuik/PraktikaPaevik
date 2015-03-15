@@ -5,12 +5,12 @@
 #   gem 'sqlite3'
 #
 default: &default
-  adapter: mysql2
+  adapter: postgresql
   pool: 5
   timeout: 5000
-  database: simple_cms_development
-  username: root
-  password: stiswithaw7
+  database: dfp6abs257oeaf
+  username: hhlngbtmzarchz
+  password: QSunuqe3NxcrViVQdaZNxZnk4X
 
 development:
   <<: *default
