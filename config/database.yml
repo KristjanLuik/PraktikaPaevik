@@ -11,6 +11,7 @@ default: &default
   database: dfp6abs257oeaf
   username: hhlngbtmzarchz
   password: QSunuqe3NxcrViVQdaZNxZnk4X
+  host: localhost
 
 development:
   <<: *default
